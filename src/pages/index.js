@@ -8,7 +8,7 @@ const IndexPage = () => {
         <Layout pageTitle="Home Page" children={"I'm making this by following the Gatsby Tutorial."}>
             <StaticImage
                 alt="anime"
-                src="./src/images/img3.jpg"
+                src="../images/img3.jpg"
             />
         </Layout>
     )
